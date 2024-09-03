@@ -1,4 +1,4 @@
 streamlit
 SpeechRecognition
-transformers
+transformers==4.44.2
 pydub
