@@ -2,4 +2,4 @@ streamlit
 SpeechRecognition
 transformers==4.44.2
 pydub
-torch
+torch==2.4.0  
